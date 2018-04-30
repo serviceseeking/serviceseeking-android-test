@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LeadsApp</string>
+    <string name="leads">Leads</string>
+    <string name="details">Details</string>
+
+    <string name="no_net">No Internet Connection</string>
+    <string name="conn_timeout">Connection Timed out!</string>
+    <string name="try_again">Please try again later</string>
+    <string name="error">Unknown Error!</string>
+
+    <string name="password">Password</string>
+    <string name="no_account">No account yet? Create one</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="desc">Description</string>
+    <string name="suburb_name">Suburb Name</string>
+    <string name="enter_email">Please enter Email address</string>
+    <string name="enter_pass">Please enter Password"</string>
+    <string name="invalid_email">Invalid Email Address</string>
+    <string name="ok">OK</string>
+    <string name="success_login">Successfully Login</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+
+
+</resources>
